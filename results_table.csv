@@ -1,0 +1,8 @@
+Script,Result,Price,Recommendation
+agent_q.py,"Hotel: Quality Inn Oceanfront | Price: No price found
+Price for Quality Inn: $140
+Price $140",140.0,
+agent_r.py,"Hotel 'Hotel O Relax Inn Lewisburg near I-64' not found in the search results.
+Price for Hotel O Relax Inn Lewisburg near I-64: $107",107.0,
+agent_m.py,"Hotel 'Motel M' not found in the search results.
+Price for Motel M: $76",76.0,"Adjust to $107.85"
